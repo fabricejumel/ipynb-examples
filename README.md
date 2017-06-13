@@ -21,7 +21,7 @@ programming to advanced topics in scientific computing.
 * [Data Publication API](http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/Data%20Publication%20API.ipynb)
 * [Frontend-Kernel Model](http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/Frontend-Kernel%20Model.ipynb)
 * [Octave Magic](http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/Octave%20Magic.ipynb)
-* [Part 1 - Running Code](http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/Part%201%20-%20Running%20Code.ipynb)
+* [Part 1 - Running Code](http://nbviewer.ipython.org/url/fabricejumel.github.io/ipynb-examples/Part%201%20-%20Running%20Code.ipynb)
 * [Part 2 - Basic Output](http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/Part%202%20-%20Basic%20Output.ipynb)
 * [Part 3 - Matplotlib](http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/Part%203%20-%20Plotting%20with%20Matplotlib.ipynb)
 * [Part 4 - Markdown Cells](http://nbviewer.ipython.org/url/github.com/ipython/ipython/raw/master/examples/notebooks/Part%204%20-%20Markdown%20Cells.ipynb)
